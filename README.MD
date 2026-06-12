@@ -75,7 +75,7 @@ Configuración del equipo
 
 **Política de denegación de lectura y escritura**
 
-![Denegar](.png)
+![Denegar](image1.png)
 
 
 ### Resultado esperado
@@ -119,11 +119,13 @@ La implementación de controles DLP permite proteger la información sensible me
 ---
 
 ## Evidencias
+### Instalacion Oracle VirtualBox Extension Pack
 
+![VirtualBox](image4.png)
 ### Configuración de la Política de Lectura y Escritura
 
-![Politica de Disco/USB Bloqueada](.png)
+![Politica de Disco/USB Bloqueada](image1.png)
 
 ### Prueba de Restricción Aplicada
 
-![Prueba de Restricción](.png)
+![Prueba de Restricción](image2.png)
