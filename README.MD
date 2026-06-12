@@ -73,13 +73,10 @@ Configuración del equipo
 
 ### Evidencia de configuración
 
-**Política de denegación de lectura**
+**Política de denegación de lectura y escritura**
 
-![Denegar Lectura](imagenes/usb-read-block.png)
+![Denegar](.png)
 
-**Política de denegación de escritura**
-
-![Denegar Escritura](imagenes/usb-write-block.png)
 
 ### Resultado esperado
 
